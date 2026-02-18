@@ -1,18 +1,18 @@
-# 📚 Digital Attendance System
+Digital Attendance System
 
 A simple console-based **Digital Attendance System** developed in C++ that allows student registration, searching, and lecture session creation using file handling.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👨‍🎓 Student Management
+Student Management
 - Register new students
 - View all registered students
 - Search for a student using index number
 - Stores student records in `students.txt`
 
-### 🗓️ Session Management
+Session Management
 - Create lecture sessions
 - Stores session details in separate text files
 - Includes:
@@ -23,7 +23,7 @@ A simple console-based **Digital Attendance System** developed in C++ that allow
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - C++
 - File Handling (`fstream`)
@@ -32,7 +32,7 @@ A simple console-based **Digital Attendance System** developed in C++ that allow
 
 ---
 
-## 📂 File Structure
+ File Structure
 
 ```
 Digital-Attendance-System/
@@ -45,7 +45,7 @@ Digital-Attendance-System/
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Compile the program:
 
@@ -61,7 +61,7 @@ g++ main.cpp -o attendance
 
 ---
 
-## 📌 Menu Options
+ Menu Options
 
 ```
 1. Register Student
@@ -73,7 +73,7 @@ g++ main.cpp -o attendance
 
 ---
 
-## 📖 Learning Objectives
+Learning Objectives
 
 This project demonstrates:
 
@@ -85,7 +85,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Improvements
+ Future Improvements
 
 - Add attendance marking feature
 - Generate attendance reports
@@ -95,7 +95,7 @@ This project demonstrates:
 
 ---
 
-👤 Author
+ Author
 
 William Amuzu  
 GitHub: https://github.com/williammawuenamamuzu-boop
